@@ -1,1 +1,1 @@
-# Capstone-Smart-Travel-Planner-
+# Capstone-Smart-Travel-Planner
